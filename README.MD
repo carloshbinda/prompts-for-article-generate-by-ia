@@ -37,10 +37,16 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| Ação | Prompt |
+| :--: | ------ |
+| 1 | Desejo escrever um artigo sobre as propriedades display e position do CSS. Gere um título interessante que englobe essas duas propriedades e possa ser de interesse para pessoas em busca de aprender CSS. |
+| 2 | Gostaria que condensasse mais esse título mantendo a ideia. |
+| 3 | Você poderia me dar outra opção de título que englobasse a ideia de conseguir colocar os elementos nos locais desejados nas páginas web? |
+| 4 | Gostei do título após o :. Mas não gostei do texto Dominando o Posicionamento. Achei que não remete a desenvolvimento web com CSS de primeira. |
+| 5 | Que tal algo como: CSS layouts: como as propriedades display e position colocam os elementos no lugar certo? |
+| 6 | Gostei. Gostaria que mantivessem em memória o título do nosso artigo. |
+| 7 | Agora vamos gerar o artigo. Regras: - Máximo 5 linhas por bloco de explicação - Explique de maneira informal usando a linguagem para a faixa etária do ensino médio e método de Feynman - Comporte-se como um escritor de artigos técnicos Escolha os tópicos livremente, mas todo o artigo deve ser desenvolvido em torno da seguinte ideia: - Explicar o funcionamento básico do box model em CSS, explicar como funciona position e display, dar a sintaxe básica, exemplos muito curtos e mostrar como essas propriedades permitem colocar os objetos em qualquer lugar da tela, fazendo o que antes se fazia com tabelas de forma muito responsiva. Lembre-se de dispor o texto em blocos como se costuma fazer com artigos técnicos. |
+
 
 
 Lexica.art：
@@ -59,10 +65,6 @@ Lexica.art：
 ## 📚 Materiais
 
 - prompts utilizados
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
 
 ## 👨‍💻 Aluno
 
